@@ -3,7 +3,7 @@
 📘 Final Project for CS 6795 - Cognitive Science  
 🧠 Georgia Institute of Technology | Spring 2025  
 👨‍⚕️ Author: Prashant Khatiwada  
-📧 Contact: prashant.khatiwada@gatech.edu
+📧 Contact: p********@gatech.edu
 
 ---
 
